@@ -1,34 +1,18 @@
-<h2 align="center">Hi 👋, I'm Vyshnavi Srimusali</h2>
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
----
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-<p align="center">
-  <em>I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms.</em>
-</p>
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-purple?style=for-the-badge&logo=github)](https://github.com/Janavi25/Janavi25/) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-skyblue?style=for-the-badge&logo=github)](https://linkedin.com/in/vyshnaviyadav/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-pink?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:srimusalivyshnavi1@gmail.com)
+ 
+I am Vyshnvai
+I live in India and I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms
 
----
 
-<p align="center"> 
-  💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
-  📫 How to reach me: <strong>srimusalivyshnavi1@gmail.com</strong>
-</p>
 
----
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/vyshnaviyadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vyshnavi___7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🚀 Skills</h2>
-
+<h2 align="center">🚀 Technologies</h2>
+Talk to me about
 <h3>Frontend</h3> 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5 badge" />
@@ -59,5 +43,15 @@
 </p>
 
 ---
+
+## 🤔 Hello World!! 
+- 💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
+- 🎯 Check out my Instagram page:
+-   <a href="https://instagram.com/vyshnavi___7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+---
+
 
 <h3 align="center">Let's build something great together! 😄</h3>
