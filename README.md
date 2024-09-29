@@ -5,11 +5,11 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-purple?style=for-the-badge&logo=github)](https://github.com/Janavi25/Janavi25/) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-skyblue?style=for-the-badge&logo=github)](https://linkedin.com/in/vyshnaviyadav/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-pink?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:srimusalivyshnavi1@gmail.com)
  
-I am Vyshnvai
-I live in India and I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms
+<h4>I am Vyshnvai
+I live in India and I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms</h2>
 <br>
 
-<h2 align="center">🚀 Technologies</h2>
+<h2 align="center">🚀 Technologies</h4>
 
  ⚡ Talk to me about
  <br>
