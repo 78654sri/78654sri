@@ -66,13 +66,13 @@ I live in India and I have been improving my knowledge of MERN stack development
 
 ---
 
+<div align="center">
 
 ## 🤔 Hello World!! 
-<p> 
-  💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
-  📫 How to reach me: <strong>srimusalivyshnavi1@gmail.com</strong>
-</p>
+- 💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
+- 📫 How to reach me: <strong>srimusalivyshnavi1@gmail.com</strong>
 
+</div>
 
 ---
 
