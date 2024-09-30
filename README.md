@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-purple?style=for-the-badge&logo=github)]([https://github.com/Janavi25/Janavi25/](https://github.com/vyshnavisrimusali111)) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-skyblue?style=for-the-badge&logo=github)](https://linkedin.com/in/vyshnaviyadav/) 
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-purple?style=for-the-badge&logo=github)]([https://github.com/vyshnavisrimusali111](https://github.com/vyshnavisrimusali111)) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-skyblue?style=for-the-badge&logo=github)](https://linkedin.com/in/vyshnaviyadav/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-pink?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:srimusalivyshnavi1@gmail.com)
  <br>
 
