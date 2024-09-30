@@ -65,17 +65,14 @@ I live in India and I have been improving my knowledge of MERN stack development
 </ul>
 
 ---
-<div align="center">
+
 
 ## 🤔 Hello World!! 
- 💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
-🎯 Check out my Instagram page:
-   <br>
-  <a href="https://instagram.com/vyshnavi___7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p> 
+  💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
+  📫 How to reach me: <strong>srimusalivyshnavi1@gmail.com</strong>
+</p>
 
-</div>
 
 ---
 
