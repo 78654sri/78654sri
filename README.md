@@ -7,8 +7,8 @@
  <br>
 
 <ul>
- <li><p>I am Vyshnavi
-I live in India and I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms</p>
+ <li><p> <strong>I am Vyshnavi </strong>
+I live in India and I have been improving my knowledge of <strong> MERN stack development </strong> and enhancing my skills in <strong>Data structures and Algorithms<strong></p>
  </li>
 </ul>
 <br>
