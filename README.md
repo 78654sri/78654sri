@@ -46,7 +46,7 @@ I live in India and I have been improving my knowledge of <strong> MERN stack de
   </li>
 
   <li>
-    <h3>Programming Skills</h3>
+    <h3>Programming Languages</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python badge" />
        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript badge" />
